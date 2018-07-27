@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TBD"
+    id="ab2a831f-bfc3-4213-9719-448e115da7da">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_5ffc88b1-c5bc-463b-a443-029b718b392c.xml#5ffc88b1-c5bc-463b-a443-029b718b392c"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_dec1656e-e8ac-48be-bc42-4e61586279c6.xml#dec1656e-e8ac-48be-bc42-4e61586279c6"/>
+</archimate:FlowRelationship>

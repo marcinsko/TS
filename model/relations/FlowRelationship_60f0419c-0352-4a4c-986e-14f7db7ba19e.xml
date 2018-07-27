@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Flat File"
+    id="60f0419c-0352-4a4c-986e-14f7db7ba19e"
+    documentation="2 pliki dziennie&#xD;&#xA;male&#xD;&#xA;CSV, &#xD;&#xA;jakis inny zasob,&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;info:&#xD;&#xA;id zglodzenia, id kolektury, kategodia progblemu, opis, daty, zamkniecie data, users, ">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_24e9e09f-0e5d-4970-8835-cdbf75bc2703.xml#24e9e09f-0e5d-4970-8835-cdbf75bc2703"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_2a5910f7-c7a1-4d4a-9f69-2e79eea88f04.xml#2a5910f7-c7a1-4d4a-9f69-2e79eea88f04"/>
+</archimate:FlowRelationship>

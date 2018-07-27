@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API (DBLink)"
+    id="f6e1ff1d-42b1-410d-8c6e-a4d3507c8c51"
+    documentation="scheduler, crone, raz dziennie,&#xD;&#xA;">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_2a5910f7-c7a1-4d4a-9f69-2e79eea88f04.xml#2a5910f7-c7a1-4d4a-9f69-2e79eea88f04"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_4f73a090-8e71-4684-b471-f608dcffe750.xml#4f73a090-8e71-4684-b471-f608dcffe750"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DB Link"
+    id="5caed9c3-ac52-4ded-bd12-76f864bf637e">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_2a5910f7-c7a1-4d4a-9f69-2e79eea88f04.xml#2a5910f7-c7a1-4d4a-9f69-2e79eea88f04"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_70202f35-c762-4335-a6b0-70b2da3da7d4.xml#70202f35-c762-4335-a6b0-70b2da3da7d4"/>
+</archimate:FlowRelationship>

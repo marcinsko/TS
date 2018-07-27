@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Flat FIle"
+    id="82311c73-7038-42c9-8841-75893be862f0"
+    documentation="te same pliki co do SFA&#xD;&#xA;">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_24e9e09f-0e5d-4970-8835-cdbf75bc2703.xml#24e9e09f-0e5d-4970-8835-cdbf75bc2703"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_70202f35-c762-4335-a6b0-70b2da3da7d4.xml#70202f35-c762-4335-a6b0-70b2da3da7d4"/>
+</archimate:FlowRelationship>

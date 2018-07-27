@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ICS"
+    id="56e31f62-71a9-4523-8375-ce521f8032df"
+    documentation="organizacja gry&#xD;&#xA;sprawdza wyniki losowania&#xD;&#xA;system odpowiada za gre&#xD;&#xA;obsluguje lotto&#xD;&#xA;to w ics odbywa sie cala gra, tam potwierdzenie ile wygral, kto wygral, ile padlo wygranych jakiego stopnia, &#xD;&#xA;dziala na tej samej bazie&#xD;&#xA;podwykon, &#xD;&#xA;wedlug ustawy powinien byc wlasnoscia TS, "/>

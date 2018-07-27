@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HomeBank"
+    id="3f9bb42f-7e07-4347-8d84-883809b2f31b"
+    documentation="realizacja przelewów, z FIX i Kalego, integrajca z bankiem, &#xD;&#xA;jednak bardzije jako ewidencja przelewow, PKOSA, &#xD;&#xA;prawdopdobnie"/>

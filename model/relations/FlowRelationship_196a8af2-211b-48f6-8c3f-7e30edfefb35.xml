@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="R-Query (DB Link)"
+    id="196a8af2-211b-48f6-8c3f-7e30edfefb35"
+    documentation="in progress">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_4f73a090-8e71-4684-b471-f608dcffe750.xml#4f73a090-8e71-4684-b471-f608dcffe750"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_70202f35-c762-4335-a6b0-70b2da3da7d4.xml#70202f35-c762-4335-a6b0-70b2da3da7d4"/>
+</archimate:FlowRelationship>

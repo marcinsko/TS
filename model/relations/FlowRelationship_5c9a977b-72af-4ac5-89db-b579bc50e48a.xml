@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Flat File ok. 20"
+    id="5c9a977b-72af-4ac5-89db-b579bc50e48a"
+    documentation="ok. ,kilkanaście do 20, male pliki, za poprzedni dzien,&#xD;&#xA;transakcje, kolektury, agenci, &#xD;&#xA;do kalego prowizje&#xD;&#xA;do FIX roliczenia z agentami&#xD;&#xA;kolektury i teminale aby ich wgrac&#xD;&#xA;sprzedaz aby ich rozliczeac&#xD;&#xA;pliki logwan na terminalach - sprawdzenie czy kolektorzy pracuja&#xD;&#xA;jednak glownie sprzedaz&#xD;&#xA;sporo tez do tetoxa - tam tez korekty sprezdazy loterii &#xD;&#xA;&#xD;&#xA;weilosc pliku: agretagy dzienne, raczej wielkosc Mega.&#xD;&#xA;">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_6d951eae-a2ba-48ff-80cb-1f2723e78265.xml#6d951eae-a2ba-48ff-80cb-1f2723e78265"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_e520329f-8361-4ac2-8055-87d94fa43ffc.xml#e520329f-8361-4ac2-8055-87d94fa43ffc"/>
+</archimate:FlowRelationship>
