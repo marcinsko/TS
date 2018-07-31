@@ -1,8 +1,9 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="???"
-    id="2fefa3e6-539a-42b7-9de2-23a6df17b24a">
+    name="Acquirer API"
+    id="2fefa3e6-539a-42b7-9de2-23a6df17b24a"
+    documentation="Card Acquirer API">
   <source
       xsi:type="archimate:SystemSoftware"
       href="SystemSoftware_ec938f8d-77ce-48d8-af9c-48b32570292b.xml#ec938f8d-77ce-48d8-af9c-48b32570292b"/>

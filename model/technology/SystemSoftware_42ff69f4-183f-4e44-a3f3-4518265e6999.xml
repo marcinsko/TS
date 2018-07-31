@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GiiFnet"
     id="42ff69f4-183f-4e44-a3f3-4518265e6999"
-    documentation="Rafał Swientonowski&#xD;&#xA;sprawdzeanie transakacji"/>
+    documentation="Rafał Swientonowski&#xD;&#xA;sprawdzeanie transakacji&#xD;&#xA;archiwum transakcji zglasancyh do GIF&#xD;&#xA;wpisywane transakcji, lokalnie, webowa aplikacja, dostep z kazdego odzialu&#xD;&#xA;kasierzy loguja, &#xD;&#xA;raz miesiacu jest generowany raport i przekazywnay do GIF, raporty XML&#xD;&#xA;operacje przepisywne recznie, &#xD;&#xA;nowy vendor moze dostarczyc raportowanie OOFB w formacie GIFowym&#xD;&#xA;kiedyś było 20 tyś. &#xD;&#xA;&#xD;&#xA;przyszłośc aby to teminale wysylay transakcje, raport&#xD;&#xA;&#xD;&#xA;"/>

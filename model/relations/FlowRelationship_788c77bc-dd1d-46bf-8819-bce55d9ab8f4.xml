@@ -1,7 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="???"
+    name="ODBC DB Link"
     id="788c77bc-dd1d-46bf-8819-bce55d9ab8f4">
   <source
       xsi:type="archimate:SystemSoftware"

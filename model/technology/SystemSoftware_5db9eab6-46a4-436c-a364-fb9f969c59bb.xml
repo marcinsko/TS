@@ -1,4 +1,5 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CMS"
-    id="5db9eab6-46a4-436c-a364-fb9f969c59bb"/>
+    id="5db9eab6-46a4-436c-a364-fb9f969c59bb"
+    documentation="Campaign Management System"/>
