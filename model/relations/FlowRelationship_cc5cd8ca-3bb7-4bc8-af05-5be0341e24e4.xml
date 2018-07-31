@@ -1,6 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Acquirer API"
     id="cc5cd8ca-3bb7-4bc8-af05-5be0341e24e4">
   <source
       xsi:type="archimate:Device"
