@@ -1,11 +1,11 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="API"
-    id="12d048cb-ce28-4dee-9f29-e67a265fc3b3">
+    name="B2B"
+    id="dcfe639d-04fc-41fe-972f-3e1335a67dac">
   <source
-      xsi:type="archimate:BusinessInterface"
-      href="BusinessInterface_afb2664a-e00a-47d2-b68a-986dd8547252.xml#afb2664a-e00a-47d2-b68a-986dd8547252"/>
+      xsi:type="archimate:Device"
+      href="Device_3aef5b52-703c-4744-8d4e-6dc8fda523aa.xml#3aef5b52-703c-4744-8d4e-6dc8fda523aa"/>
   <target
       xsi:type="archimate:SystemSoftware"
       href="SystemSoftware_6d951eae-a2ba-48ff-80cb-1f2723e78265.xml#6d951eae-a2ba-48ff-80cb-1f2723e78265"/>

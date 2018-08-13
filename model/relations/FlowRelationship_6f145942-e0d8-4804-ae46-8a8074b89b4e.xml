@@ -1,7 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="TBD"
+    name="API"
     id="6f145942-e0d8-4804-ae46-8a8074b89b4e">
   <source
       xsi:type="archimate:SystemSoftware"
