@@ -69,15 +69,10 @@
         source="f1952fb5-e1a9-4318-bcb3-3b2092f5f904"
         target="ce35dcb6-c937-4740-8f17-a19054c8117a">
       <bendpoints
-          startX="336"
-          startY="-18"
-          endX="-252"
-          endY="-276"/>
-      <bendpoints
-          startX="444"
-          startY="-18"
-          endX="-144"
-          endY="-276"/>
+          startX="360"
+          startY="30"
+          endX="-228"
+          endY="-228"/>
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_5c9a977b-72af-4ac5-89db-b579bc50e48a.xml#5c9a977b-72af-4ac5-89db-b579bc50e48a"/>
@@ -329,7 +324,7 @@
     </sourceConnections>
     <bounds
         x="900"
-        y="144"
+        y="180"
         width="120"
         height="55"/>
     <archimateElement
@@ -342,7 +337,7 @@
       targetConnections="61e4ca8b-516a-4b18-b866-03434bc30bbb">
     <bounds
         x="900"
-        y="240"
+        y="276"
         width="120"
         height="55"/>
     <archimateElement
@@ -1068,11 +1063,23 @@
       fontColor="#ffffff"
       textAlignment="1"
       fillColor="#0080ff"
-      content="IGT Responsibilities">
+      content="Legenda:&#xD;&#xA;Odpowiedzialność IGT">
     <bounds
-        x="895"
+        x="900"
         y="24"
-        width="130"
+        width="143"
         height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="e139099e-d8ca-47c1-afd4-d0b9487920f9"
+      textAlignment="1"
+      fillColor="#9dcca6"
+      content="Legenda:&#xD;&#xA;Rozwiązania produkcyjne">
+    <bounds
+        x="900"
+        y="72"
+        width="143"
+        height="50"/>
   </children>
 </archimate:ArchimateDiagramModel>
